@@ -20,7 +20,9 @@ Benefits Extractor lets you drop in any benefits policy PDF and get back a clean
 2. The PDF is sent to Claude (Anthropic's AI) which reads and extracts every benefit
 <img width="1377" height="646" alt="Screenshot 2026-06-15 at 6 26 14 pm" src="https://github.com/user-attachments/assets/ab98a4b3-530b-4052-a09c-3f6d79724f2a" />
 3. Results are returned as structured JSON and displayed in a sortable table
+
 <img width="866" height="734" alt="Screenshot 2026-06-15 at 6 27 52 pm" src="https://github.com/user-attachments/assets/fecda1ba-feb7-416e-ae96-b49fc869a322" />
+
 4. User can save the extracted data to Supabase with one click
 
 <img width="215" height="59" alt="Screenshot 2026-06-15 at 6 28 17 pm" src="https://github.com/user-attachments/assets/e27b9569-e2aa-4c52-9c81-f56118691bb1" />
